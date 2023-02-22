@@ -1,0 +1,8 @@
+F:\LapTrinh\CSharp\OOPInCSharp\OOPInCSharp\bin\Debug\OOPInCSharp.exe.config
+F:\LapTrinh\CSharp\OOPInCSharp\OOPInCSharp\bin\Debug\OOPInCSharp.exe
+F:\LapTrinh\CSharp\OOPInCSharp\OOPInCSharp\bin\Debug\OOPInCSharp.pdb
+F:\LapTrinh\CSharp\OOPInCSharp\OOPInCSharp\obj\Debug\OOPInCSharp.csproj.AssemblyReference.cache
+F:\LapTrinh\CSharp\OOPInCSharp\OOPInCSharp\obj\Debug\OOPInCSharp.csproj.SuggestedBindingRedirects.cache
+F:\LapTrinh\CSharp\OOPInCSharp\OOPInCSharp\obj\Debug\OOPInCSharp.csproj.CoreCompileInputs.cache
+F:\LapTrinh\CSharp\OOPInCSharp\OOPInCSharp\obj\Debug\OOPInCSharp.exe
+F:\LapTrinh\CSharp\OOPInCSharp\OOPInCSharp\obj\Debug\OOPInCSharp.pdb
