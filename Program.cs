@@ -34,6 +34,11 @@ namespace OOPInCSharp
             playlist.PlaylistId = 6;
             Console.WriteLine($"SongId: {playlist.SongId},playlistID: {playlist.PlaylistId}");
 
+            //Day la thay doi nhe
+            Song song=new Song(1,"Tim duoc nhau kho the nao",1,1,10000);
+            song.Display();
+            
+
             Console.ReadLine();
         }
     }

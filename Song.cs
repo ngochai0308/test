@@ -25,5 +25,13 @@ namespace OOPInCSharp
             AlbumId = albumId;
             ViewCount = viewCount;
         }
+        public void Display()
+        {
+            Console.WriteLine($"Ma bai hat: {this.Id}\n" +
+                $"Ten bai hat: {this.Title}\n" +
+                $"Ma Nghe si: {this.ArtistID}\n" +
+                $"Ma album: {this.AlbumId}\n" +
+                $"View: {this.ViewCount}");
+        }
     }
 }
